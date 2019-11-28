@@ -17,3 +17,4 @@ dependencies:
 - pytest
 - mkdocs
 - pre-commit
+- scikit-learn
